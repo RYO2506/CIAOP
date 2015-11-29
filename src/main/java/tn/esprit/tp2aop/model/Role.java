@@ -5,7 +5,7 @@ public class Role {
 
 	public Role(String label) {
 		super();
-		this.label = label;
+		this.label = label ;
 	}
 
 	public String getLabel() {
