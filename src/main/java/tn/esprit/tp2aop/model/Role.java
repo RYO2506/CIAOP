@@ -9,7 +9,9 @@ public class Role {
 	}
 
 	public String getLabel() {
+		
 		return label;
+		
 	}
 
 	public void setLabel(String label) {
